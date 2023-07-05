@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>ICMTC on 50r4</title>
+    <link>https://s00ra.github.io/series/icmtc/</link>
+    <description>Recent content in ICMTC on 50r4</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ahmedraof55555@gmail.com (Ahmed Raof. AKA 50r4.)</managingEditor>
+    <webMaster>ahmedraof55555@gmail.com (Ahmed Raof. AKA 50r4.)</webMaster>
+    <copyright>©2023 50r4, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 05 Jul 2023 12:08:37 +0900</lastBuildDate>
+    
+        <atom:link href="https://s00ra.github.io/series/icmtc/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>ICMTC Crypto</title>
+        <link>https://s00ra.github.io/ctfs/icmtc/</link>
+        <pubDate>Wed, 05 Jul 2023 12:08:37 +0900</pubDate>
+        <author>ahmedraof55555@gmail.com (Ahmed Raof. AKA 50r4.)</author>
+        <atom:modified>Wed, 05 Jul 2023 12:08:37 +0900</atom:modified>
+        <guid>https://s00ra.github.io/ctfs/icmtc/</guid>
+        <description>Twilight We encountered an image that contained some unkown characters. To analyze the cipher, I utilized the Symbols Cipher List on the dcode.fr website. It was determined that the cipher was the Hylian Language.
+Decrypting the cipher yielded the following text: REVWALJHEHIDDWNPLAINSWCRWJMESSADE. By making slight adjustments to the text,
+1 2 print(&amp;#34;REVWALJHEHIDDWNPLAINSWCRWJMESSADE&amp;#34;.replace(&amp;#34;W&amp;#34;, &amp;#34;E&amp;#34;).replace(&amp;#34;J&amp;#34;, &amp;#34;T&amp;#34;)) # and replace the last D in MESSADE with G Flag: EGCERT{REVEALTHEHIDDENPLAINSECRETMESSAGE} Simple Cipher Challenge 1 2 3 4 5 6 7 8 9 10 11 import os FLAG = open(&amp;#34;flag.</description>
+        
+        <dc:creator>Ahmed Raof</dc:creator>
+        <media:content url="https://s00ra.github.io/images/ctfs/icmtc/logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://s00ra.github.io/images/ctfs/icmtc/logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>writeUps</category>
+            
+          
+            
+              <category>Crypto</category>
+            
+          
+        
+        
+          
+            
+              <category>ctfs</category>
+            
+          
+        
+        
+          
+            
+              <category>ICMTC</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
