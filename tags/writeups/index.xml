@@ -22,11 +22,11 @@
       
       <item>
         <title>ICMTC Crypto</title>
-        <link>https://s00ra.github.io/ctfs/icmtc/</link>
+        <link>https://s00ra.github.io/ctfs/icmtccrypto/</link>
         <pubDate>Wed, 05 Jul 2023 12:08:37 +0900</pubDate>
         <author>ahmedraof55555@gmail.com (Ahmed Raof. AKA 50r4.)</author>
         <atom:modified>Wed, 05 Jul 2023 12:08:37 +0900</atom:modified>
-        <guid>https://s00ra.github.io/ctfs/icmtc/</guid>
+        <guid>https://s00ra.github.io/ctfs/icmtccrypto/</guid>
         <description>Twilight We encountered an image that contained some unkown characters. To analyze the cipher, I utilized the Symbols Cipher List on the dcode.fr website. It was determined that the cipher was the Hylian Language.
 Decrypting the cipher yielded the following text: REVWALJHEHIDDWNPLAINSWCRWJMESSADE. By making slight adjustments to the text,
 1 2 print(&amp;#34;REVWALJHEHIDDWNPLAINSWCRWJMESSADE&amp;#34;.replace(&amp;#34;W&amp;#34;, &amp;#34;E&amp;#34;).replace(&amp;#34;J&amp;#34;, &amp;#34;T&amp;#34;)) # and replace the last D in MESSADE with G Flag: EGCERT{REVEALTHEHIDDENPLAINSECRETMESSAGE} Simple Cipher Challenge 1 2 3 4 5 6 7 8 9 10 11 import os FLAG = open(&amp;#34;flag.</description>
@@ -43,6 +43,51 @@ Decrypting the cipher yielded the following text: REVWALJHEHIDDWNPLAINSWCRWJMESS
           
             
               <category>Crypto</category>
+            
+          
+        
+        
+          
+            
+              <category>ctfs</category>
+            
+          
+        
+        
+          
+            
+              <category>ICMTC</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>ICMTC Reverse</title>
+        <link>https://s00ra.github.io/ctfs/icmtcrev/</link>
+        <pubDate>Wed, 05 Jul 2023 12:08:37 +0900</pubDate>
+        <author>ahmedraof55555@gmail.com (Ahmed Raof. AKA 50r4.)</author>
+        <atom:modified>Wed, 05 Jul 2023 12:08:37 +0900</atom:modified>
+        <guid>https://s00ra.github.io/ctfs/icmtcrev/</guid>
+        <description>Oriris Let&amp;rsquo;s begin by loading the challenge onto IDA. The program prompts the user for input and passes it to the check_flag() function. If the return value is 1, it displays the message Correct Flag :). Otherwise, it will print Wrong Flag :( message.
+Upon examining the check_flag() function, we can observe multiple conditional checks. These conditions can be translated into constraints in the Z3 solver to obtain the flag. Notably, the largest index being checked is user_input[41], indicating that the flag length is 42.</description>
+        
+        <dc:creator>Ahmed Raof</dc:creator>
+        <media:content url="https://s00ra.github.io/images/ctfs/icmtc/logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://s00ra.github.io/images/ctfs/icmtc/logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>writeUps</category>
+            
+          
+            
+              <category>REV</category>
+            
+          
+            
+              <category>dumpulator</category>
             
           
         

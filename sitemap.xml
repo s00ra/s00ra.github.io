@@ -14,10 +14,19 @@
     <loc>https://s00ra.github.io/categories/ctfs/</loc>
     <lastmod>2023-07-05T12:08:37+09:00</lastmod>
   </url><url>
+    <loc>https://s00ra.github.io/tags/dumpulator/</loc>
+    <lastmod>2023-07-05T12:08:37+09:00</lastmod>
+  </url><url>
     <loc>https://s00ra.github.io/series/icmtc/</loc>
     <lastmod>2023-07-05T12:08:37+09:00</lastmod>
   </url><url>
-    <loc>https://s00ra.github.io/ctfs/icmtc/</loc>
+    <loc>https://s00ra.github.io/ctfs/icmtccrypto/</loc>
+    <lastmod>2023-07-05T12:08:37+09:00</lastmod>
+  </url><url>
+    <loc>https://s00ra.github.io/ctfs/icmtcrev/</loc>
+    <lastmod>2023-07-05T12:08:37+09:00</lastmod>
+  </url><url>
+    <loc>https://s00ra.github.io/tags/rev/</loc>
     <lastmod>2023-07-05T12:08:37+09:00</lastmod>
   </url><url>
     <loc>https://s00ra.github.io/series/</loc>
@@ -33,9 +42,6 @@
     <lastmod>2023-01-17T12:08:37+09:00</lastmod>
   </url><url>
     <loc>https://s00ra.github.io/categories/crackmes/</loc>
-    <lastmod>2023-01-17T12:08:37+09:00</lastmod>
-  </url><url>
-    <loc>https://s00ra.github.io/tags/rev/</loc>
     <lastmod>2023-01-17T12:08:37+09:00</lastmod>
   </url><url>
     <loc>https://s00ra.github.io/crackmes/s01dens-cube/</loc>

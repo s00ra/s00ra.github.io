@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>dumpulator on 50r4</title>
+    <link>https://s00ra.github.io/tags/dumpulator/</link>
+    <description>Recent content in dumpulator on 50r4</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ahmedraof55555@gmail.com (Ahmed Raof. AKA 50r4.)</managingEditor>
+    <webMaster>ahmedraof55555@gmail.com (Ahmed Raof. AKA 50r4.)</webMaster>
+    <copyright>©2023 50r4, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 05 Jul 2023 12:08:37 +0900</lastBuildDate>
+    
+        <atom:link href="https://s00ra.github.io/tags/dumpulator/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>ICMTC Reverse</title>
+        <link>https://s00ra.github.io/ctfs/icmtcrev/</link>
+        <pubDate>Wed, 05 Jul 2023 12:08:37 +0900</pubDate>
+        <author>ahmedraof55555@gmail.com (Ahmed Raof. AKA 50r4.)</author>
+        <atom:modified>Wed, 05 Jul 2023 12:08:37 +0900</atom:modified>
+        <guid>https://s00ra.github.io/ctfs/icmtcrev/</guid>
+        <description>Oriris Let&amp;rsquo;s begin by loading the challenge onto IDA. The program prompts the user for input and passes it to the check_flag() function. If the return value is 1, it displays the message Correct Flag :). Otherwise, it will print Wrong Flag :( message.
+Upon examining the check_flag() function, we can observe multiple conditional checks. These conditions can be translated into constraints in the Z3 solver to obtain the flag. Notably, the largest index being checked is user_input[41], indicating that the flag length is 42.</description>
+        
+        <dc:creator>Ahmed Raof</dc:creator>
+        <media:content url="https://s00ra.github.io/images/ctfs/icmtc/logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://s00ra.github.io/images/ctfs/icmtc/logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>writeUps</category>
+            
+          
+            
+              <category>REV</category>
+            
+          
+            
+              <category>dumpulator</category>
+            
+          
+        
+        
+          
+            
+              <category>ctfs</category>
+            
+          
+        
+        
+          
+            
+              <category>ICMTC</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
