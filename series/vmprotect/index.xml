@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>VMProtect on 50r4</title>
+    <link>https://s00ra.github.io/series/vmprotect/</link>
+    <description>Recent content in VMProtect on 50r4</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ahmedraof55555@gmail.com (Ahmed Raof. AKA 50r4.)</managingEditor>
+    <webMaster>ahmedraof55555@gmail.com (Ahmed Raof. AKA 50r4.)</webMaster>
+    <copyright>©2023 50r4, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 15 Mar 2023 12:08:37 +0900</lastBuildDate>
+    
+        <atom:link href="https://s00ra.github.io/series/vmprotect/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Unpacking VMProtect</title>
+        <link>https://s00ra.github.io/malware-reports/vmprotect/</link>
+        <pubDate>Wed, 15 Mar 2023 12:08:37 +0900</pubDate>
+        <author>ahmedraof55555@gmail.com (Ahmed Raof. AKA 50r4.)</author>
+        <atom:modified>Wed, 15 Mar 2023 12:08:37 +0900</atom:modified>
+        <guid>https://s00ra.github.io/malware-reports/vmprotect/</guid>
+        <description>Sample: 76840fa18df8764afb51f1aa6da10ff65f1bdfe434dc988917380fa31fbe3a73 Introduction Malware is often packed in a way that makes it difficult to understand the code written by the author. Actors behind the malware take the time to obfuscate it so that it is not easy for someone to quickly identify what it does and how to stop it. Depending on the skill level of the malware authors, they may use pre-existing tools such as UPX, or create their own packer.</description>
+        
+        <dc:creator>Ahmed Raof</dc:creator>
+        <media:content url="https://s00ra.github.io/images/malware/Unpacking_VMProtect/logo.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://s00ra.github.io/images/malware/Unpacking_VMProtect/logo.jpg" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>REV</category>
+            
+          
+            
+              <category>Tips &amp; Tricks</category>
+            
+          
+            
+              <category>malware analysis</category>
+            
+          
+        
+        
+          
+            
+              <category>malware-reports</category>
+            
+          
+        
+        
+          
+            
+              <category>VMProtect</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

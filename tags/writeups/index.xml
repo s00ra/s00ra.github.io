@@ -107,6 +107,134 @@ Upon examining the check_flag() function, we can observe multiple conditional ch
         
       </item>
       
+      <item>
+        <title>Tables</title>
+        <link>https://s00ra.github.io/gt/tables/</link>
+        <pubDate>Tue, 28 Mar 2023 12:08:37 +0900</pubDate>
+        <author>ahmedraof55555@gmail.com (Ahmed Raof. AKA 50r4.)</author>
+        <atom:modified>Tue, 28 Mar 2023 12:08:37 +0900</atom:modified>
+        <guid>https://s00ra.github.io/gt/tables/</guid>
+        <description>Introduction Some source language has a significant impact on the assembly. For example, C++ has several features and constructs that do not exist in C, and these can complicate analysis of the resulting assembly.
+Malicious programs written in C++ create challenges for the malware analyst that make it harder to determine the purpose of assembly code. Understanding basic C++ features and how they appear in assembly language is critical to analyzing malware written in C++.</description>
+        
+        <dc:creator>Ahmed Raof</dc:creator>
+        <media:content url="https://s00ra.github.io/images/gt/tables/logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://s00ra.github.io/images/gt/tables/logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>writeUps</category>
+            
+          
+            
+              <category>Flagyard</category>
+            
+          
+            
+              <category>c&#43;&#43;</category>
+            
+          
+            
+              <category>General Topics</category>
+            
+          
+        
+        
+          
+            
+              <category>gt</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>HTB Cyber Apocalypse</title>
+        <link>https://s00ra.github.io/ctfs/cyberapocalypse/</link>
+        <pubDate>Sat, 18 Mar 2023 12:08:37 +0900</pubDate>
+        <author>ahmedraof55555@gmail.com (Ahmed Raof. AKA 50r4.)</author>
+        <atom:modified>Sat, 18 Mar 2023 12:08:37 +0900</atom:modified>
+        <guid>https://s00ra.github.io/ctfs/cyberapocalypse/</guid>
+        <description>Hello and welcome to my reverse engineering and machine learning write-up. This was my first time participating in Cyber Apocalypse 2023 - The Cursed Mission, and it was an incredibly fun experience. I had the pleasure of working with IDEK team, and I&#39;m happy to say that we managed to achieve 🥇 **1st** place in the competition.1️⃣ CHALLEGNE NAME: Shattered Tablet
+Difficulty: Very easy
+Deep in an ancient tomb, you&amp;rsquo;ve discovered a stone tablet with secret information on the locations of other relics.</description>
+        
+        <dc:creator>Ahmed Raof</dc:creator>
+        <media:content url="https://s00ra.github.io/images/ctfs/CyberApocalypse/logo.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://s00ra.github.io/images/ctfs/CyberApocalypse/logo.jpg" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>writeUps</category>
+            
+          
+            
+              <category>REV</category>
+            
+          
+            
+              <category>angr</category>
+            
+          
+            
+              <category>Symbolic Execution</category>
+            
+          
+        
+        
+          
+            
+              <category>ctfs</category>
+            
+          
+        
+        
+          
+            
+              <category>HTB</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Cyber Talents - R3V3RS3 ME</title>
+        <link>https://s00ra.github.io/ctfs/r3v3rs3me/</link>
+        <pubDate>Wed, 18 Jan 2023 12:08:37 +0900</pubDate>
+        <author>ahmedraof55555@gmail.com (Ahmed Raof. AKA 50r4.)</author>
+        <atom:modified>Wed, 18 Jan 2023 12:08:37 +0900</atom:modified>
+        <guid>https://s00ra.github.io/ctfs/r3v3rs3me/</guid>
+        <description>⬇️ Challenge Link: R3V3RS3 ME Intro Welcome to my blog, today we will delve into the intricacies of a reverse engineering challenge from Cybertalent, specifically, the challenge known as R3V3RS3 ME. This challenge presents us with a .jar file, and as any reverse engineer would know, the first step in solving this challenge is to decompile the file. To accomplish this, we will use the online decompiler
+We will be presented with a Java file upon obtaining the decompilation results.</description>
+        
+        <dc:creator>Ahmed Raof</dc:creator>
+        <media:content url="https://s00ra.github.io/images/ctfs/R3V3RS3_ME/logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://s00ra.github.io/images/ctfs/R3V3RS3_ME/logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>writeUps</category>
+            
+          
+            
+              <category>REV</category>
+            
+          
+        
+        
+          
+            
+              <category>ctfs</category>
+            
+          
+        
+        
+      </item>
+      
 
     
   </channel>

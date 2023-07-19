@@ -66,6 +66,135 @@ Upon examining the check_flag() function, we can observe multiple conditional ch
       </item>
       
       <item>
+        <title>HTB Cyber Apocalypse</title>
+        <link>https://s00ra.github.io/ctfs/cyberapocalypse/</link>
+        <pubDate>Sat, 18 Mar 2023 12:08:37 +0900</pubDate>
+        <author>ahmedraof55555@gmail.com (Ahmed Raof. AKA 50r4.)</author>
+        <atom:modified>Sat, 18 Mar 2023 12:08:37 +0900</atom:modified>
+        <guid>https://s00ra.github.io/ctfs/cyberapocalypse/</guid>
+        <description>Hello and welcome to my reverse engineering and machine learning write-up. This was my first time participating in Cyber Apocalypse 2023 - The Cursed Mission, and it was an incredibly fun experience. I had the pleasure of working with IDEK team, and I&#39;m happy to say that we managed to achieve 🥇 **1st** place in the competition.1️⃣ CHALLEGNE NAME: Shattered Tablet
+Difficulty: Very easy
+Deep in an ancient tomb, you&amp;rsquo;ve discovered a stone tablet with secret information on the locations of other relics.</description>
+        
+        <dc:creator>Ahmed Raof</dc:creator>
+        <media:content url="https://s00ra.github.io/images/ctfs/CyberApocalypse/logo.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://s00ra.github.io/images/ctfs/CyberApocalypse/logo.jpg" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>writeUps</category>
+            
+          
+            
+              <category>REV</category>
+            
+          
+            
+              <category>angr</category>
+            
+          
+            
+              <category>Symbolic Execution</category>
+            
+          
+        
+        
+          
+            
+              <category>ctfs</category>
+            
+          
+        
+        
+          
+            
+              <category>HTB</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Unpacking VMProtect</title>
+        <link>https://s00ra.github.io/malware-reports/vmprotect/</link>
+        <pubDate>Wed, 15 Mar 2023 12:08:37 +0900</pubDate>
+        <author>ahmedraof55555@gmail.com (Ahmed Raof. AKA 50r4.)</author>
+        <atom:modified>Wed, 15 Mar 2023 12:08:37 +0900</atom:modified>
+        <guid>https://s00ra.github.io/malware-reports/vmprotect/</guid>
+        <description>Sample: 76840fa18df8764afb51f1aa6da10ff65f1bdfe434dc988917380fa31fbe3a73 Introduction Malware is often packed in a way that makes it difficult to understand the code written by the author. Actors behind the malware take the time to obfuscate it so that it is not easy for someone to quickly identify what it does and how to stop it. Depending on the skill level of the malware authors, they may use pre-existing tools such as UPX, or create their own packer.</description>
+        
+        <dc:creator>Ahmed Raof</dc:creator>
+        <media:content url="https://s00ra.github.io/images/malware/Unpacking_VMProtect/logo.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://s00ra.github.io/images/malware/Unpacking_VMProtect/logo.jpg" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>REV</category>
+            
+          
+            
+              <category>Tips &amp; Tricks</category>
+            
+          
+            
+              <category>malware analysis</category>
+            
+          
+        
+        
+          
+            
+              <category>malware-reports</category>
+            
+          
+        
+        
+          
+            
+              <category>VMProtect</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Cyber Talents - R3V3RS3 ME</title>
+        <link>https://s00ra.github.io/ctfs/r3v3rs3me/</link>
+        <pubDate>Wed, 18 Jan 2023 12:08:37 +0900</pubDate>
+        <author>ahmedraof55555@gmail.com (Ahmed Raof. AKA 50r4.)</author>
+        <atom:modified>Wed, 18 Jan 2023 12:08:37 +0900</atom:modified>
+        <guid>https://s00ra.github.io/ctfs/r3v3rs3me/</guid>
+        <description>⬇️ Challenge Link: R3V3RS3 ME Intro Welcome to my blog, today we will delve into the intricacies of a reverse engineering challenge from Cybertalent, specifically, the challenge known as R3V3RS3 ME. This challenge presents us with a .jar file, and as any reverse engineer would know, the first step in solving this challenge is to decompile the file. To accomplish this, we will use the online decompiler
+We will be presented with a Java file upon obtaining the decompilation results.</description>
+        
+        <dc:creator>Ahmed Raof</dc:creator>
+        <media:content url="https://s00ra.github.io/images/ctfs/R3V3RS3_ME/logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://s00ra.github.io/images/ctfs/R3V3RS3_ME/logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>writeUps</category>
+            
+          
+            
+              <category>REV</category>
+            
+          
+        
+        
+          
+            
+              <category>ctfs</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
         <title>S01den&#39;s cube</title>
         <link>https://s00ra.github.io/crackmes/s01dens-cube/</link>
         <pubDate>Tue, 17 Jan 2023 12:08:37 +0900</pubDate>
@@ -105,6 +234,45 @@ Before diving into the reverse engineering process, let&#39;s first take a look 
           
             
           
+        
+      </item>
+      
+      <item>
+        <title>X0rb0y</title>
+        <link>https://s00ra.github.io/crackmes/x0rb0y/</link>
+        <pubDate>Sun, 15 Jan 2023 12:08:37 +0900</pubDate>
+        <author>ahmedraof55555@gmail.com (Ahmed Raof. AKA 50r4.)</author>
+        <atom:modified>Sun, 15 Jan 2023 12:08:37 +0900</atom:modified>
+        <guid>https://s00ra.github.io/crackmes/x0rb0y/</guid>
+        <description>Download link X0rb0y Welcome to my latest adventure! Today, I&amp;rsquo;ll be taking you through the process of solving a crackme challenge that had me stumped for hours. The challenge was a Windows executable, and the goal was simple: find the correct key to unlock the program. But as with all CTF challenges, the solution was anything but simple.
+The first thing I did was load the executable into IDA, to take a closer look at the program&amp;rsquo;s inner workings.</description>
+        
+        <dc:creator>Ahmed Raof</dc:creator>
+        <media:content url="https://s00ra.github.io/images/crackmes/X0rb0y/logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://s00ra.github.io/images/crackmes/X0rb0y/logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>crackmes</category>
+            
+          
+            
+              <category>Windows</category>
+            
+          
+            
+              <category>REV</category>
+            
+          
+        
+        
+          
+            
+              <category>crackmes</category>
+            
+          
+        
         
       </item>
       

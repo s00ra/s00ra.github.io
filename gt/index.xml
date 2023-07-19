@@ -20,6 +20,49 @@
     
 
       
+      <item>
+        <title>Tables</title>
+        <link>https://s00ra.github.io/gt/tables/</link>
+        <pubDate>Tue, 28 Mar 2023 12:08:37 +0900</pubDate>
+        <author>ahmedraof55555@gmail.com (Ahmed Raof. AKA 50r4.)</author>
+        <atom:modified>Tue, 28 Mar 2023 12:08:37 +0900</atom:modified>
+        <guid>https://s00ra.github.io/gt/tables/</guid>
+        <description>Introduction Some source language has a significant impact on the assembly. For example, C++ has several features and constructs that do not exist in C, and these can complicate analysis of the resulting assembly.
+Malicious programs written in C++ create challenges for the malware analyst that make it harder to determine the purpose of assembly code. Understanding basic C++ features and how they appear in assembly language is critical to analyzing malware written in C++.</description>
+        
+        <dc:creator>Ahmed Raof</dc:creator>
+        <media:content url="https://s00ra.github.io/images/gt/tables/logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://s00ra.github.io/images/gt/tables/logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>writeUps</category>
+            
+          
+            
+              <category>Flagyard</category>
+            
+          
+            
+              <category>c&#43;&#43;</category>
+            
+          
+            
+              <category>General Topics</category>
+            
+          
+        
+        
+          
+            
+              <category>gt</category>
+            
+          
+        
+        
+      </item>
+      
 
     
   </channel>

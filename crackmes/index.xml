@@ -64,19 +64,40 @@ Before diving into the reverse engineering process, let&#39;s first take a look 
       </item>
       
       <item>
-        <title></title>
+        <title>X0rb0y</title>
         <link>https://s00ra.github.io/crackmes/x0rb0y/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 15 Jan 2023 12:08:37 +0900</pubDate>
         <author>ahmedraof55555@gmail.com (Ahmed Raof. AKA 50r4.)</author>
-        
+        <atom:modified>Sun, 15 Jan 2023 12:08:37 +0900</atom:modified>
         <guid>https://s00ra.github.io/crackmes/x0rb0y/</guid>
-        <description></description>
+        <description>Download link X0rb0y Welcome to my latest adventure! Today, I&amp;rsquo;ll be taking you through the process of solving a crackme challenge that had me stumped for hours. The challenge was a Windows executable, and the goal was simple: find the correct key to unlock the program. But as with all CTF challenges, the solution was anything but simple.
+The first thing I did was load the executable into IDA, to take a closer look at the program&amp;rsquo;s inner workings.</description>
         
-        <dc:creator>Ahmed Raof. AKA 50r4.</dc:creator>
+        <dc:creator>Ahmed Raof</dc:creator>
+        <media:content url="https://s00ra.github.io/images/crackmes/X0rb0y/logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://s00ra.github.io/images/crackmes/X0rb0y/logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>crackmes</category>
+            
+          
+            
+              <category>Windows</category>
+            
+          
+            
+              <category>REV</category>
+            
+          
         
         
-        
-        
+          
+            
+              <category>crackmes</category>
+            
+          
         
         
       </item>
